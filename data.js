@@ -45,7 +45,7 @@ const clientData = {
   links: [
     { platform: "LinkedIn", url: "https://www.linkedin.com/in/ainaa-hanani-821280355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", icon: "linkedin" },
     { platform: "Instagram", url: "https://www.instagram.com/ana_hnn1?igsh=MTF0eDY0Mnc2amhzNQ==", icon: "instagram" },
-    { platform: "WhatsApp", url: "https://api.whatsapp.com/qr/JXDGPS4N74L6O1", icon: "message-circle" },
+    { platform: "WhatsApp", url: "https://wa.me/qr/JXDGPS4N74L6O1", icon: "message-circle" },
     { platform: "TikTok", url: "https://www.tiktok.com/@hananjy21?_r=1&_t=ZS-991kI7HXkRc", icon: "tiktok" }
   ],
 
